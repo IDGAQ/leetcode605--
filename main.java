@@ -1,6 +1,7 @@
 //原题给的array一定不会出现1靠着1
-//所以可以跳两个
+//所以可以跳两个，跳三写的非常巧妙
 //当然也可以暴力，贪心
+
 
 class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
